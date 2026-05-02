@@ -1,7 +1,3 @@
-Alternative:
-📋 Using External Listeners
-To automate the discovery of vulnerabilities that require external interaction, you can use the `Collaborator-URLs.txt` file. The tool will read this file and generate specific adb commands for every exported activity and common redirection parameter.
-Create the file: Create a file named **Collaborator-URLs.txt** in the root directory.
 Add your listeners: Insert your unique URLs from any of the following professional tools:
 - Burp Suite Collaborator
 - Interactsh
