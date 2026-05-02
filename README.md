@@ -15,7 +15,7 @@ In modern Android applications, Deep Links often serve as gateways to sensitive 
 
 ---
 
-# Key Features
+# 🛡️ Key Features
 - **Automated Manifest Analysis:** Rapidly parses decompiled XML files to identify all `intent-filter` blocks.
 - **Security Risk Scoring:** Automatically flags `android:exported="true"` activities that are accessible by external applications.
 - **URI Construction:** Maps `scheme`, `host`, and `path` attributes into fully qualified URIs.
@@ -32,13 +32,13 @@ Security Checks Performed:
 
 ---
 
-# Prerequisites
+# 📦 Prerequisites
 - Go 1.20 or higher.
 - Apktool (for decompiling target APKs).
 
 ---
 
-# Installation
+# 🛠️ Installation
 
 ```
 git clone https://github.com/ikpehlivan/Andro-Deep-Link-Inquisitor.git
@@ -48,7 +48,7 @@ go mod init Andro-Deep-Link-Inquisitor
 
 ---
 
-# Usage
+# ⌨️ Usage
 
 ```
 Decompile your target APK:
