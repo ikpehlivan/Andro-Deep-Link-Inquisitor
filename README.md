@@ -64,7 +64,7 @@ Create the file: Create a file named **Collaborator-URLs.txt** in the root direc
 Add your listeners: Insert your unique URLs from any of the following professional tools:
 - Burp Suite Collaborator
 - Interactsh
-- Webhook.sit
+- Webhook.site
 - DNSLog.cn
 ```
 go run main.go -manifest AndroidManifest.xml -file Collaborator-URLs.txt
