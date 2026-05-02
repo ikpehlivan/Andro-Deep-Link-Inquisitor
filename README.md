@@ -45,8 +45,8 @@ go run main.go -manifest ./target_app/AndroidManifest.xml
 ```
 --- Target Activity: com.targetapp.InternalTransferActivity ---
 [!] Security Status: EXPORTED (HIGH RISK)
-   > Identified URI: targetapp://transfer/confirm
-     POC Exploit: adb shell am start -W -a android.intent.action.VIEW -d "targetapp://transfer/confirm"
+   > Identified URI: target_app://transfer/confirm
+     POC Exploit: adb shell am start -W -a android.intent.action.VIEW -d "target_app://transfer/confirm"
 ```
 # ⚖️ Ethical Use & Disclaimer
 
