@@ -2,7 +2,7 @@
 <img src="assets/logo.png" width="400" alt="Android Deep Link Inquisitor Logo">
 </p>
 
-# Andro-Deep-Link-Inquisitor 📱🔍
+# Android Deep Link Inquisitor 📱🔍
 
 **Andro-Deep-Link-Inquisitor** is a specialized reconnaissance tool written in Go, designed for mobile security researchers and penetration testers. It automates the discovery and security analysis of Deep Links and App Links within Android applications to identify critical vulnerabilities such as **Intent Redirection**, **Authentication Bypass**, and **Insecure WebView** implementations.
 
