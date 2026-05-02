@@ -67,7 +67,7 @@ Add your listeners: Insert your unique URLs from any of the following profession
 - Webhook.site
 - DNSLog.cn
 ```
-go run main.go -manifest AndroidManifest.xml -file Collaborator-URLs.txt
+go run main.go -manifest ./target_app/AndroidManifest.xml -file Collaborator-URLs.txt
 ```
 
 ---
