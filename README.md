@@ -74,5 +74,4 @@ go run main.go -manifest ./target_app/AndroidManifest.xml
 This tool is created for educational and authorized security testing purposes only. Unauthorized access to or testing of mobile applications without prior consent is illegal. The developer assumes no liability for any misuse or damage caused by this program. Always stay ethical.
 
 Developed by İlteriş Kaan Pehlivan
-
-Web & Mobile Security Researcher | White Hat Hacker
+Offensive Security Researcher · Penetration Tester
