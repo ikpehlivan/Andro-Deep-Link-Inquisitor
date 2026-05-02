@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/logo.png" width="250" alt="Android Deep Link Inquisitor Logo">
+<img src="assets/logo.png" width="200" alt="Android Deep Link Inquisitor Logo">
 </p>
 
 # Android Deep Link Inquisitor 📱🔍
