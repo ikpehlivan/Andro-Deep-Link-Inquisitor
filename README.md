@@ -18,7 +18,7 @@ In modern Android applications, Deep Links often serve as gateways to sensitive 
 # 🛡️ Key Features
 - **Automated Manifest Analysis:** Rapidly parses decompiled XML files to identify all `intent-filter` blocks.
 - **Security Risk Scoring:** Automatically flags `android:exported="true"` activities that are accessible by external applications.
-- **URI Construction:** Maps `scheme`, `host`, and `path` attributes into fully qualified URIs.
+- **URI Construction:** Maps `scheme`, `host` and `path` attributes into fully qualified URIs.
 - **ADB Exploit Generator:** Produces instant `adb` shell commands for dynamic testing and verification.
 - **Performance-Driven:** Built with Golang's efficient concurrency and regex engine for lightning-fast scanning.
 
